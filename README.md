@@ -10,7 +10,7 @@
 ---
 
 ## About Me 🌐  
-A dual-degree senior at Connecticut College in **Computer Science** and **East Asian Studies**, I build elegant, scalable solutions blending tech with culture. My projects range from **AI-driven sentiment analysis** and **customer segmentation** to full-stack enterprise systems and **digitizing Japanese cursive writing** using computer vision. With global experience in the U.S., China, Japan, and Switzerland, I thrive in multicultural environments and love bridging technology with real-world impact.
+A new Graduate of Connecticut College in **Computer Science** and **East Asian Studies**, I build elegant, scalable solutions blending tech with culture. My projects range from **AI-driven sentiment analysis** and **customer segmentation** to full-stack enterprise systems and **digitizing Japanese cursive writing** using computer vision. With global experience in the U.S., China, Japan, and Switzerland, I thrive in multicultural environments and love bridging technology with real-world impact.
 
 ---
 
